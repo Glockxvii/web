@@ -4,10 +4,12 @@ img{
 }
 div{
     display: inline-block;
-    
 }
 p{
     margin-top: 0;
     font-size: 20px;
     font-weight: 900;
+}
+#flags {
+    display: inline-block;
 }
